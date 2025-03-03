@@ -1,6 +1,6 @@
 Hii 👋
 
-Welcome to the **Dublin High Girls Who Code Website**!
+Welcome to the **Dublin High School Girls Who Code Website**!
 
 DHS Girls Who Code is Dublin High’s chapter of Girls Who Code.
 
